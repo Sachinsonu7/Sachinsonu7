@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sachinsonu7
-- 👀 I’m interested in Android Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript & SQL
 - 💞️ I’m looking to collaborate on Projects on Android Development
 - 📫 How to reach me @sachin_sonu_ is my Instagram Profile
