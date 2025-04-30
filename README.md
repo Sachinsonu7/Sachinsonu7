@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Sachinsonu7
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript & SQL
-- 💞️ I’m looking to collaborate on Projects based on Web Development
-- 📫 How to reach me gowlikar.sachin94@gitam.in is my Mail and @sachin_sonu_ is my Instagram Profile
+- 👋 Hi, I’m Sachin Gowlikar  
+- 👀 I’m passionate about Data Analysis and deriving insights from data  
+- 🌱 I’m currently honing my skills in Python, SQL, Excel, Machine Learning, NLP, Deep Learning and Data Visualization tools like Power BI and Tableau  
+- 💞️ I’m looking to collaborate on projects involving Data Analytics, Business Intelligence, or Statistical Analysis  
+- 📫 How to reach me: gowlikar.sachin94@gmail.in (email) LinkedIn: https://www.linkedin.com/in/gowlikar-sachin 
+
 
 
 <!---
